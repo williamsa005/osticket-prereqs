@@ -20,11 +20,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create Virtual Machine in Azure: Windows 10 Virtual Machine (VM) with at least 2-4 virtual CPUs
+- Install / Enable IIS in Windows with CGI, common HTTP features, and IIS Management Console 
+- Install osTicket 
+- Install VC_redist, MySQL, and HeidiSQL
 
 <h2>Installation Steps</h2>
 
