@@ -28,6 +28,10 @@ This quick guide outlines the prerequisites and installation of the open-source 
 
 <h2>Installation Steps</h2>
 
+1. Once you've successfullly created a subscription within Azure https://portal.azure.com/ you are now ready to create a virtual machine by going to virtual machines > create Azure virtual machine.
+2. Setup your virtual machine with Windows 10 Pro, version 22H2. Note: for optimal functionality create a virtual machine with at least 2-4 virtual CPUs and 16 gbs of memory.
+3. Once you have created your virtual machine you will want to remote desktop connect to it by using the public IP address the VM has provided. A quick search within your computer system should lead you to the remote desktop connection app. *MAC users may need to download the appropriate remote desktop app to continue with the installation.  
+
 <p>
 <img src="https://i.imgur.com/tLnCcb9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
