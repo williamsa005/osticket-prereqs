@@ -3,8 +3,9 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This quick guide outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
+<img src="https://i.imgur.com/6wKbhJc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
