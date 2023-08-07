@@ -75,5 +75,36 @@ Note: some extensions are not enabled
     - Enable: php_opcache.dll
   - Refresh the osTicket site in your browse, observe the changes
 
+Note: From the Installation Files, download and install HeidiSQL. Follow the steps within the HeidiSQL Setup Wizard. 
+
+<img src="https://i.imgur.com/20nCdVX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<img src="https://i.imgur.com/y1YywNb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<img src="https://i.imgur.com/5alsYiT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ - Open Heidi SQL
+  - Create a new session, root/Password1
+  - Connect to the session
+  - Create a database called “osTicket”
+
+Continue setting up osTicket in the browser
+
+  - MySQL Database: osTicket
+  - MySQL Username: root
+  - MySQL Password: Password1
+  - Click “Install Now!”
+
+<img src="https://i.imgur.com/6OUkP0e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Congratulations, osTicket has been successfully installed wit no errors. 
+
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+<img src="https://i.imgur.com/O0KNLEM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 <br />
