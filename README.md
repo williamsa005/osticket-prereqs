@@ -99,7 +99,7 @@ Continue setting up osTicket in the browser
 
 <img src="https://i.imgur.com/6OUkP0e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Congratulations, osTicket has been successfully installed wit no errors. 
+Congratulations, osTicket has been successfully installed with no errors. 
 
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
